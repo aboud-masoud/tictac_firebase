@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "137827930280",
+    "project_id": "sattustictac",
+    "storage_bucket": "sattustictac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137827930280:android:ac45db96c29bea759e729d",
+        "android_client_info": {
+          "package_name": "com.example.game_x_and_o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137827930280-spembi805bqrr3dl9bvqtit7c4i6uor6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMP9IlxIRvaYMgb2x8Th8kl9DF9l3UnSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137827930280-spembi805bqrr3dl9bvqtit7c4i6uor6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137827930280-vie5ld9qb7gnrihgpc72n7fov4sqoisp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gameXAndo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
