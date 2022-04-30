@@ -34,7 +34,8 @@
               "client_id": "137827930280-vie5ld9qb7gnrihgpc72n7fov4sqoisp.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.gameXAndo"
+                "bundle_id": "com.example.tictac_game"
+
               }
             }
           ]
